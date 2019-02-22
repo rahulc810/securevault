@@ -1,4 +1,4 @@
-# stashapp
+# SecureVault
 A stashing utility for storing sensitive data by encrypting it at source, which can be queried easily
 
 
